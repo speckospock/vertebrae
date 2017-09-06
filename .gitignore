@@ -1,3 +1,6 @@
+### MAC OSX ###
+.DS_Store
+
 ### node etc ###
 
 # Logs
@@ -37,4 +40,3 @@ lib/
 
 # Swap files (for the vim users in all of us)
 /**/*.swp
-
